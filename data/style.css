@@ -305,6 +305,7 @@ html {
 
 .project-img {
     width: 40rem;
+    height: 20rem;
     transition: opacity 0.3s;
 }
 
@@ -395,6 +396,7 @@ html {
     padding: 2rem;
     /* font-weight: 400;*/
     text-shadow: 0.2rem 0.2rem 0.5rem #ce1212;
+    font-size: 2rem;
 }
 
 .Contat-Details-Values {
